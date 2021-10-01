@@ -1,0 +1,22 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+
+.menu--secciones-blog-cocina .nav > .nav-item > a {
+  color: #FFFFFF;
+}
+
+.datetime {
+  font-size: 9px;
+}
+
+.node--type-libro h1 {
+  font-size: 20px;
+  color: #0a65aa;
+  font-family: 'Roboto', sans-serif;
+}
+
+.node--type-libro {
+  font-size: 9px;
+}

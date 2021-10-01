@@ -1,0 +1,9 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+
+h1.title {
+  color: #00ff00;
+  font-size: 24px;
+}

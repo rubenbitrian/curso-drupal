@@ -1,0 +1,53 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+
+.navbar-brand img {
+  max-width: 20%;
+}
+
+.header__top .region-secondary-menu{
+  width: 100%;
+}
+
+
+.header__top .region-secondary-menu .menu--account > .nav{
+  justify-content: flex-end;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1.title {
+  color: #00ff00;
+  font-size: 24px;
+}
+
+.block .block-layout-builder.block-inline-blockcabecera h2 {
+  color: #FFFFFF;
+  font-size: 50px;
+  font-family: "Times New Roman";
+  position: absolute;
+  top: 20%;
+  left: 40%;
+  z-index: 10;
+}
+
+.block-inline-blockcabecera .field--name-field-imagen-cab {
+  float:none;
+}
+.block-inline-blockcabecera {
+  position: relative;
+}
+.block-inline-blockcabecera:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 17px;
+  right: 17px;
+  z-index: 10;
+  background-color: rgba(0,0,0,0.3);
+}
