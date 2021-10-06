@@ -1,0 +1,36 @@
+<?php
+
+
+/**
+ * Implements hook_form_alter().
+ */
+function recetas_core_form_alter(&$form, \Drupal\Core\Form\FormStateInterface $form_state, $form_id)
+{
+  $form['first_recipe'] = [
+    '#weight' => 100,
+    '#theme' => 'recetas_core_vars',
+    '#forums' => 'hola',
+    '#parents' => 'mundo',
+    '#tid' => 'bla bla bla'
+  ];
+}
+
+
+
+/**
+ * Implements hook_theme().
+ */
+function recetas_core_theme() {
+  return [
+    'recetas_core_vars' => [
+      'variables' => ['forums' => NULL, 'parents' => NULL, 'tid' => NULL],
+    ],
+    'recetas_core' => [
+      'render element' => 'element',
+    ],
+  ];
+}
+
+function recetas_core_preprocess_recetas_core_vars(&$variables) {
+  $variables['forums'] = 'adios';
+}

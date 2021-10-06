@@ -831,3 +831,5 @@ $settings['hash_salt'] = 'jdHWHBDFtkqmbCZE';
 $settings['trusted_host_patterns'] = array(
     '\.localhost$', '\.local$', '\.loc$'
 );
+
+$settings['custom_translations_directory'] = '../config/translations';

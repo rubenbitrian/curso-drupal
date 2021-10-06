@@ -1,0 +1,8 @@
+name: 'Recetas core'
+type: module
+description: 'Provides the ability to group your fields on both form and display.'
+package : Hiberus
+core_version_requirement: ^8.8 || ^9
+dependencies:
+  - drupal:field
+  - -domain:domain_config

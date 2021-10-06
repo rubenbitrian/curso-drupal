@@ -1,0 +1,248 @@
+# Spanish translation of Curso Drupal 9
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2021-10-05 17:06+0000\n"
+"PO-Revision-Date: 2021-10-05 17:06+0000\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Default"
+msgstr "Default"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Operations"
+msgstr "Operations"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Author"
+msgstr "Author"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "True"
+msgstr "True"
+
+msgid "Updated"
+msgstr "Updated"
+
+msgid "All"
+msgstr "All"
+
+msgid "Page title"
+msgstr "Page title"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "Published"
+msgstr "Published"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Widget"
+msgstr "Widget"
+
+msgid "Table"
+msgstr "Table"
+
+msgid "Sort by"
+msgstr "Sort by"
+
+msgid "English"
+msgstr "English"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Document"
+msgstr "Document"
+
+msgid "‹ Previous"
+msgstr "‹ Previous"
+
+msgid "Next ›"
+msgstr "Next ›"
+
+msgid "Unpublished"
+msgstr "Unpublished"
+
+msgid "Grid"
+msgstr "Grid"
+
+msgid "Audio file"
+msgstr "Audio file"
+
+msgid "Offset"
+msgstr "Offset"
+
+msgid "Newest first"
+msgstr "Newest first"
+
+msgid "Primary tabs"
+msgstr "Primary tabs"
+
+msgid "Secondary tabs"
+msgstr "Secondary tabs"
+
+msgid "Video file"
+msgstr "Video file"
+
+msgid "Items per page"
+msgstr "Items per page"
+
+msgid "- All -"
+msgstr "- All -"
+
+msgid "Publishing status"
+msgstr "Publishing status"
+
+msgid "Apply filters"
+msgstr "Apply filters"
+
+msgid "« First"
+msgstr "« First"
+
+msgid "Last »"
+msgstr "Last »"
+
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+msgid "Status messages"
+msgstr "Status messages"
+
+msgid "Published status"
+msgstr "Published status"
+
+msgid "Main page content"
+msgstr "Main page content"
+
+msgid "Full content"
+msgstr "Full content"
+
+msgid "No media available."
+msgstr "No media available."
+
+msgid "Video URL"
+msgstr "Video URL"
+
+msgid "Wide"
+msgstr "Wide"
+
+msgid "Media type"
+msgstr "Media type"
+
+msgid "Media library"
+msgstr "Media library"
+
+msgid "Primary admin actions"
+msgstr "Primary admin actions"
+
+msgid "Max 1300x1300"
+msgstr "Max 1300x1300"
+
+msgid "Max 2600x2600"
+msgstr "Max 2600x2600"
+
+msgid "Max 325x325"
+msgstr "Max 325x325"
+
+msgid "Max 650x650"
+msgstr "Max 650x650"
+
+msgid "Narrow"
+msgstr "Narrow"
+
+msgid "Delete media"
+msgstr "Delete media"
+
+msgid "Media name"
+msgstr "Media name"
+
+msgid "Save media"
+msgstr "Save media"
+
+msgid "Publish media"
+msgstr "Publish media"
+
+msgid "Unpublish media"
+msgstr "Unpublish media"
+
+msgid "Find and manage media."
+msgstr "Find and manage media."
+
+msgid "Use local images for reusable media."
+msgstr "Use local images for reusable media."
+
+msgid "A locally hosted audio file."
+msgstr "A locally hosted audio file."
+
+msgid "A locally hosted video file."
+msgstr "A locally hosted video file."
+
+msgid "Name (A-Z)"
+msgstr "Name (A-Z)"
+
+msgid "Name (Z-A)"
+msgstr "Name (Z-A)"
+
+msgid "Remote video"
+msgstr "Remote video"
+
+msgid "A remotely hosted video from YouTube or Vimeo."
+msgstr "A remotely hosted video from YouTube or Vimeo."
+
+msgid "Edit {{ name }}"
+msgstr "Edit {{ name }}"
+
+msgid "Delete {{ name }}"
+msgstr "Delete {{ name }}"
+
+msgid "An uploaded file or document, such as a PDF."
+msgstr "An uploaded file or document, such as a PDF."
+
+msgid "navbar-toggleable-md"
+msgstr "0"
+
+msgid "bg-secondary"
+msgstr ""
+
